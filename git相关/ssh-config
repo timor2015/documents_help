@@ -1,0 +1,9 @@
+Host git.oschina.net
+HostName git.oschina.net
+User git
+IdentityFile ~/.ssh/osc_test
+
+Host github.com
+HostName github.com
+User git
+IdentityFile ~/.ssh/github
